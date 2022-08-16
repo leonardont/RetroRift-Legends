@@ -5,6 +5,10 @@
 <p align="center">The limit is your imagination :)</p>
 
 <br>
+
+<p align="center"><a href="https://leonardontz.itch.io/retrorift-legends">Check this game at itch.io here!</a></p>
+
+<br>
 <br>
 <br>
 
@@ -12,6 +16,8 @@
 <br>
 <h4 align="center">You are in charge of creating the virtuality portal, which can bring together the digital and real world in many ways.</h4>
 <h4 align="center">Will this be a good feature... or the actual extinction of our race?</h4>
+
+![alt text](https://github.com/leonardont/RetroRift-Legends/tree/main/Assets/Textures/Menu/menuBackground.png?raw=true)
 
 <br>
 <br>
