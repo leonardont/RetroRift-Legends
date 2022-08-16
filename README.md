@@ -17,9 +17,10 @@
 <h4 align="center">You are in charge of creating the virtuality portal, which can bring together the digital and real world in many ways.</h4>
 <h4 align="center">Will this be a good feature... or the actual extinction of our race?</h4>
 
-![alt text](https://github.com/leonardont/RetroRift-Legends/tree/main/Assets/Textures/Menu/menuBackground.png?raw=true)
-
 <br>
+
+![](Assets/Textures/Menu/menuBackground.png)
+
 <br>
 
 <p align="center">Control your character with the <b>W, A, S and D</b> keys or the arrow keys.</p>
@@ -33,6 +34,10 @@
 
 <br>
 <br>
+<br>
+
+![](Assets/Textures/Background/background1.png)
+
 <br>
 
 <h3 align="center"><i><b>Credits</b></i></h3>
