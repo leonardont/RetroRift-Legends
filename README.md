@@ -1,7 +1,7 @@
 <h1 align="center">RetroRift: Legends</h1>
 
 <p align="center">A 2D top-down shooter game made in the Unity platform, as a college project for the Faculdade de Tecnologia de Americana college.</p>
-<p align="center">This is the complete source codes and assets used in the game. You can use it for free to learn, modify or improve the game!</p>
+<p align="center">These are the complete source codes and assets used in the game. You can use it for free to learn, modify or improve the game!</p>
 <p align="center">The limit is your imagination! :)</p>
 
 <br>
