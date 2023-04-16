@@ -88,13 +88,17 @@
 <p align="center">Mileny Fernanda de Souza Clemente</p>
 
 <br>
-<br>
+<hr>
 <br>
 
-<h4 align="center">DISCLAIMER: "RetroRift: Legends" is a personal project, developed for the "Programming II" subject, coded "ILP201", at Faculdade de Tecnologia de Americana (FATEC-AM), located in Americana, São Paulo, Brazil.<h3><
-<h4 align="center">This project does NOT comercially profit today, has NOT comercially profited in the past, and will NOT comercially profit in the future. The owners and participants of this project do not sell, endorse the selling or receive any money for the copies of this project, strictly because there is copyrighted material from third parties developed into it.</h3><
-<h4 align="center">THE HEREBY PROJECT SHALL BE USED ONLY AND EXCLUSIVELY FOR RESEARCH PURPOSES.</h3>
+<h4 align="center">DISCLAIMER: "RetroRift: Legends" is a personal project, developed for the "Programming II" subject, coded "ILP201", at Faculdade de Tecnologia de Americana (FATEC-AM), located in Americana, São Paulo, Brazil.<h4>
+<h4 align="center">This project does NOT comercially profit today, has NOT comercially profited in the past, and will NOT comercially profit in the future.</h4>
+<h4 align="center">The owners and participants of this project do not sell, endorse the selling or receive any money for the copies of this project, strictly because there is copyrighted material from third parties developed into it.</h4>
+<br>
+<h4 align="center">THE HEREBY PROJECT SHALL BE USED ONLY AND EXCLUSIVELY FOR RESEARCH PURPOSES.</h4>
 
+<br>
+<hr>
 <br>
 
 <h3 align="center">Copyright © 2022 Leonardo Nabarro Tonezer & Mileny Fernanda de Souza Clemente</h3>
