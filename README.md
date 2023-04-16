@@ -6,7 +6,7 @@
 
 <h3 align="center">RetroRift: Legends has won the Huizinga Award at Faculdade de Tecnologia de Americana in September 21st, 2022.</h3><br>
 
-<p align="center">The Huizinga Award is a highly esteemed college award that recognizes outstanding achievement in the field of digital game development. Presented each semester at FATEC Americana to the top student game project, this award celebrates creativity, innovation, and technical skill in the design and development of digital games.</p><br>
+<p align="center">The Huizinga Award is a highly esteemed college award that recognizes outstanding achievement in the field of digital game development. Presented each semester at Faculdade de Tecnologia de Americana to the top student game project, this award celebrates creativity, innovation, and technical skill in the design and development of digital games.</p><br>
 
 <p align="center">Named after the renowned Dutch historian and philosopher Johan Huizinga, the Huizinga Award reflects his belief that play and games are integral to human culture and expression. Just as Huizinga saw games as an essential part of human experience, this award recognizes the essential role that digital games play in contemporary society, both as entertainment and as a means of artistic expression.</p><br>
 
@@ -38,7 +38,6 @@
 <p align="center">You must hit the enemies, commonly seen as the <b>"bad guys"</b> in retro games, and carefully dodge the obstacles, known as the <b>"good guys"</b>.</p>
 
 <br>
-<br>
 
 <p align="center"><b>Are you up to the challenge?</b></p>
 
@@ -50,7 +49,7 @@
 
 <br>
 
-<h3 align="center"><i><b>Credits</b></i></h3>
+<h3 align="center"><b>Credits</b></h3>
 
 <br>
 
@@ -80,19 +79,19 @@
 
 <h3 align="center"><i><b>Project</b></i></h3>
 
-<p align="center"><b>Unity Programming, C# Scripts Programming, Project Director, Animation Programming</b></p>
+<p align="center"><b>Project Director, Unity Developer, C# Scripts Developer, Animation Developer, Digital Artist, Storyboard Creator</b></p>
 <p align="center">Leonardo Nabarro Tonezer</p>
-<p align="center"><b>Unity Programming, C# Scripts Programming, Art Director, Storyboard Artist</b></p>
+<p align="center"><b>Unity Developer, C# Scripts Developer</b></p>
 <p align="center">Mileny Fernanda de Souza Clemente</p>
 
 <br>
 <br>
 <br>
 
-<br>
-<h3 align="center">DISCLAIMER: "RetroRift: Legends" is a personal project, developed for the "Programming II" subject, coded "ILP201", at Faculdade de Tecnologia de Americana (FATEC-AM), located in Americana, São Paulo, Brazil.<h3><br>
-<h3 align="center">This project does NOT comercially profit today, has NOT comercially profited in the past, and will NOT comercially profit in the future. The owners and participants of this project do not sell, endorse the selling or receive any money for the copies of this project, strictly because there is copyrighted material from third parties developed into it.</h3><br>
-<h3 align="center">THE HEREBY PROJECT SHALL BE USED ONLY AND EXCLUSIVELY FOR RESEARCH PURPOSES.</h3><br>
+<h4 align="center">DISCLAIMER: "RetroRift: Legends" is a personal project, developed for the "Programming II" subject, coded "ILP201", at Faculdade de Tecnologia de Americana (FATEC-AM), located in Americana, São Paulo, Brazil.<h3><
+<h4 align="center">This project does NOT comercially profit today, has NOT comercially profited in the past, and will NOT comercially profit in the future. The owners and participants of this project do not sell, endorse the selling or receive any money for the copies of this project, strictly because there is copyrighted material from third parties developed into it.</h3><
+<h4 align="center">THE HEREBY PROJECT SHALL BE USED ONLY AND EXCLUSIVELY FOR RESEARCH PURPOSES.</h3>
+
 <br>
 
 <h3 align="center">Copyright © 2022 Leonardo Nabarro Tonezer & Mileny Fernanda de Souza Clemente</h3>
