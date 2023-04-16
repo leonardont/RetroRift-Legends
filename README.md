@@ -1,8 +1,11 @@
 <h1 align="center">RetroRift: Legends</h1>
 
-<p align="center">A 2D top-down shooter game made in the Unity platform, as a college project for the Faculdade de Tecnologia de Americana college.</p><br>
-<p align="center">These are the complete source codes and assets used in the game. You can use it for free to learn, modify or improve the game!</p><br>
-<p align="center">The limit is your imagination! :)</p><br>
+<p align="center">An award-winning 2D top-down shooter game made in the Unity platform, as a college project for Faculdade de Tecnologia de Americana.</p><br>
+<p align="center">This is the repository for the complete source codes and assets used in the game. You can use it for free to learn, research, modify or improve the game. The limit is your imagination!</p>
+
+<br>
+<hr>
+<br>
 
 <h3 align="center">RetroRift: Legends has won the Huizinga Award at Faculdade de Tecnologia de Americana in September 21st, 2022.</h3><br>
 
