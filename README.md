@@ -5,7 +5,7 @@
 
 <br>
 
-<p align="center"><a href="https://leonardont.itch.io/retrorift-legends">Check this game at itch.io here!</a></p>
+<p align="center"><a href="https://leonardont.itch.io/retrorift-legends" target="_blank">Check this game at itch.io here!</a></p>
 
 <br>
 <hr>
