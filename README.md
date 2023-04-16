@@ -13,7 +13,7 @@
 
 <p align="center">Named after the renowned Dutch historian and philosopher Johan Huizinga, the Huizinga Award reflects his belief that play and games are integral to human culture and expression. Just as Huizinga saw games as an essential part of human experience, this award recognizes the essential role that digital games play in contemporary society, both as entertainment and as a means of artistic expression.</p><br>
 
-<p align="center">Winning the Huizinga Award is a great honor, not only for the student developer or development team, but also for FATEC Americana as a whole. It represents the highest level of excellence in digital game development, and serves as a testament to the dedication and hard work of the award recipient.</p><br>
+<p align="center">Winning the Huizinga Award is a great honor, not only for the student developer or development team, but also for Faculdade de Tecnologia de Americana as a whole. It represents the highest level of excellence in digital game development, and serves as a testament to the dedication and hard work of the award recipient.</p><br>
 
 <p align="center">Whether you are a game developer, a student, or simply a fan of digital games, the Huizinga Award is a symbol of excellence and achievement in the field of game development, and a source of inspiration and motivation for all who aspire to create great games.</p>
 
