@@ -4,9 +4,7 @@
 <p align="center">These are the complete source codes and assets used in the game. You can use it for free to learn, modify or improve the game!</p><br>
 <p align="center">The limit is your imagination! :)</p><br>
 
-<br>
-
-<h3 align="center">RetroRift: Legends has won the Huizinga Award at Faculdade de Tecnologia de Americana in September 21st, 2022.</p><br>
+<h3 align="center">RetroRift: Legends has won the Huizinga Award at Faculdade de Tecnologia de Americana in September 21st, 2022.</h3><br>
 
 <p align="center">The Huizinga Award is a highly esteemed college award that recognizes outstanding achievement in the field of digital game development. Presented each semester at FATEC Americana to the top student game project, this award celebrates creativity, innovation, and technical skill in the design and development of digital games.</p><br>
 
@@ -14,7 +12,7 @@
 
 <p align="center">Winning the Huizinga Award is a great honor, not only for the student developer or development team, but also for FATEC Americana as a whole. It represents the highest level of excellence in digital game development, and serves as a testament to the dedication and hard work of the award recipient.</p><br>
 
-<p align="center">Whether you are a game developer, a student, or simply a fan of digital games, the Huizinga Award is a symbol of excellence and achievement in the field of game development, and a source of inspiration and motivation for all who aspire to create great games.</p><br>
+<p align="center">Whether you are a game developer, a student, or simply a fan of digital games, the Huizinga Award is a symbol of excellence and achievement in the field of game development, and a source of inspiration and motivation for all who aspire to create great games.</p>
 
 <br>
 
