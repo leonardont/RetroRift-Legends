@@ -1,8 +1,20 @@
 <h1 align="center">RetroRift: Legends</h1>
 
-<p align="center">A 2D top-down shooter game made in the Unity platform, as a college project for the Faculdade de Tecnologia de Americana college.</p>
-<p align="center">These are the complete source codes and assets used in the game. You can use it for free to learn, modify or improve the game!</p>
-<p align="center">The limit is your imagination! :)</p>
+<p align="center">A 2D top-down shooter game made in the Unity platform, as a college project for the Faculdade de Tecnologia de Americana college.</p><br>
+<p align="center">These are the complete source codes and assets used in the game. You can use it for free to learn, modify or improve the game!</p><br>
+<p align="center">The limit is your imagination! :)</p><br>
+
+<br>
+
+<h3 align="center">RetroRift: Legends has won the Huizinga Award at Faculdade de Tecnologia de Americana in September 21st, 2022.</p><br>
+
+<p align="center">The Huizinga Award is a highly esteemed college award that recognizes outstanding achievement in the field of digital game development. Presented each semester at FATEC Americana to the top student game project, this award celebrates creativity, innovation, and technical skill in the design and development of digital games.</p><br>
+
+<p align="center">Named after the renowned Dutch historian and philosopher Johan Huizinga, the Huizinga Award reflects his belief that play and games are integral to human culture and expression. Just as Huizinga saw games as an essential part of human experience, this award recognizes the essential role that digital games play in contemporary society, both as entertainment and as a means of artistic expression.</p><br>
+
+<p align="center">Winning the Huizinga Award is a great honor, not only for the student developer or development team, but also for FATEC Americana as a whole. It represents the highest level of excellence in digital game development, and serves as a testament to the dedication and hard work of the award recipient.</p><br>
+
+<p align="center">Whether you are a game developer, a student, or simply a fan of digital games, the Huizinga Award is a symbol of excellence and achievement in the field of game development, and a source of inspiration and motivation for all who aspire to create great games.</p><br>
 
 <br>
 
@@ -79,5 +91,11 @@
 <br>
 <br>
 
-<h3 align="center">Copyright 2022 Leonardo Nabarro Tonezer & Mileny Fernanda de Souza Clemente</h3>
+<br>
+<h3 align="center">DISCLAIMER: "RetroRift: Legends" is a personal project, developed for the "Programming II" subject, coded "ILP201", at Faculdade de Tecnologia de Americana (FATEC-AM), located in Americana, São Paulo, Brazil.<h3><br>
+<h3 align="center">This project does NOT comercially profit today, has NOT comercially profited in the past, and will NOT comercially profit in the future. The owners and participants of this project do not sell, endorse the selling or receive any money for the copies of this project, strictly because there is copyrighted material from third parties developed into it.</h3><br>
+<h3 align="center">THE HEREBY PROJECT SHALL BE USED ONLY AND EXCLUSIVELY FOR RESEARCH PURPOSES.</h3><br>
+<br>
+
+<h3 align="center">Copyright © 2022 Leonardo Nabarro Tonezer & Mileny Fernanda de Souza Clemente</h3>
 <h3 align="center">Apache License - Version 2.0</h3>
