@@ -22,7 +22,7 @@
 <p align="center"><a href="https://leonardont.itch.io/retrorift-legends">Check this game at itch.io here!</a></p>
 
 <br>
-<br>
+<hr>
 <br>
 
 <h3 align="center">Welcome to 2050, fellow scientist!</h3>
