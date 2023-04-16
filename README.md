@@ -4,6 +4,10 @@
 <p align="center">This is the repository for the complete source codes and assets used in the game. You can use it for free to learn, research, modify or improve the game. The limit is your imagination!</p>
 
 <br>
+
+<p align="center"><a href="https://leonardont.itch.io/retrorift-legends">Check this game at itch.io here!</a></p>
+
+<br>
 <hr>
 <br>
 
@@ -16,10 +20,6 @@
 <p align="center">Winning the Huizinga Award is a great honor, not only for the student developer or development team, but also for Faculdade de Tecnologia de Americana as a whole. It represents the highest level of excellence in digital game development, and serves as a testament to the dedication and hard work of the award recipient.</p><br>
 
 <p align="center">Whether you are a game developer, a student, or simply a fan of digital games, the Huizinga Award is a symbol of excellence and achievement in the field of game development, and a source of inspiration and motivation for all who aspire to create great games.</p>
-
-<br>
-
-<p align="center"><a href="https://leonardont.itch.io/retrorift-legends">Check this game at itch.io here!</a></p>
 
 <br>
 <hr>
